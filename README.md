@@ -14,3 +14,6 @@
 $ gem build oinam-jekyll.gemspec
 $ gem push oinam-jekyll-x.x.x.gem
 ```
+
+## Credits
+This repo is based on jekyll template by [@oinam](https://github.com/oinam) : [Repo](https://github.com/oinam/oinam-jekyll/)
